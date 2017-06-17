@@ -71,3 +71,6 @@ target/
 
 # exclude emojis directory
 data/emojis
+
+# exclude weight files
+weights/*.h5
