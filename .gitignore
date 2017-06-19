@@ -71,3 +71,15 @@ target/
 
 # exclude emojis directory
 data/emojis
+
+# exclude Glove embeddings
+data/glove.6B
+
+# exclude weight files
+weights/*.h5
+
+# exclude csv files
+data/*.csv
+
+# exclude notes
+notes.md
