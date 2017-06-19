@@ -80,3 +80,6 @@ weights/*.h5
 
 # exclude csv files
 data/*.csv
+
+# exclude notes
+notes.md
